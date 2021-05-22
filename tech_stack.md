@@ -79,7 +79,12 @@
             2. Pseudo element
             3. Animation
             4. Priority 
-    4. API
+    4. APIs
         1. Browser
+            1. DOM(Document Object Model)
+                1. Nodes
+                2. Ranges
+                3. Events 
+            2. BOM(Browser Object Model)
         2. Node
         3. Electron
