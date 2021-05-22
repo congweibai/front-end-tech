@@ -56,6 +56,29 @@
                 4. Script & Module
         3. Semantics
     3. CSS
+        1. Grammar/Semantics
+        2. @rule
+        3. general rule
+            1. selector
+                1. Simple selector
+                    1. .cls
+                    2. #id
+                    3. tag name
+                    4. *
+                    5. [attr=v]
+                2. Combined selector
+                    1. eg: #id.cls
+                3. Complex selector
+                    1. eg: #id > a
+                4. Selctor list
+                    1. eg: #id a>.cls[attr] 
+            2. Key(Property)
+            3. Value
+        4. Mechanism
+            1. Layout
+            2. Pseudo element
+            3. Animation
+            4. Priority 
     4. API
         1. Browser
         2. Node
